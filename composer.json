@@ -1,0 +1,23 @@
+{
+  "name": "tylerpendleton/wkhtmltopdf-debian-amd64",
+  "description": "wkhtmltopdf for debian 9 (stretch) amd64",
+  "keywords": ["pdf", "wkhtmltopdf", "convert", "binary"],
+  "minimum-stability": "stable",
+  "license": "LGPL Version 3",
+  "authors": [
+    {
+      "name": "tylerpendleton",
+      "email": "tyler@tylerpendleton.com"
+    }
+  ],
+  "require": {
+  },
+  "bin": [
+    "bin/wkhtmltopdf-debian-amd64"
+  ],
+  "autoload": {
+    "psr-4": {
+      "tylerpendleton\\WkHtmlToPDF\\": ""
+    }
+  }
+}
