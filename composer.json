@@ -3,7 +3,7 @@
   "description": "wkhtmltopdf for debian 9 (stretch) amd64",
   "keywords": ["pdf", "wkhtmltopdf", "convert", "binary"],
   "minimum-stability": "stable",
-  "license": "LGPL Version 3",
+  "license": "LGPL-3.0-only",
   "authors": [
     {
       "name": "tylerpendleton",
